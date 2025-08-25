@@ -1,0 +1,11 @@
+"hacker_news":{
+    "icon": "hacker-news",
+    "label": "Hacker News",
+    "color": "orange",
+    "blockdef": {
+        "meta": {
+            "view": "web",
+            "url": "https://news.ycombinator.com"
+        }
+    }
+}

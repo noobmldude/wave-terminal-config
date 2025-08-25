@@ -1,0 +1,11 @@
+{
+  "ai@ollama-llama": {
+    "display:name": "Ollama - Gemma3:1B",
+    "display:order": 3,
+    "ai:*": true,
+    "ai:baseurl": "http://localhost:11434/v1",
+    "ai:name": "gemma3",
+    "ai:model": "gemma3:1b",
+    "ai:apitoken": "ollama"
+  }
+}
